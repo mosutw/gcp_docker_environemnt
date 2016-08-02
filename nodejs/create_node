@@ -1,0 +1,1 @@
+docker run --name nodejs_mosu -v /root/project/nodejs:/project/nodejs -it nodejs_dev bash
